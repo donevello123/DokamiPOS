@@ -6,3 +6,7 @@ to store and modify items held within a database. Included in the code is the ab
 
 Posted below are screenshots of the applications logic and UI.
 
+![alt text](https://github.com/donevello123/DokamiPOS/blob/main/DokamiPOS1.png?raw=true)
+![alt text](https://github.com/donevello123/DokamiPOS/blob/main/DokamiPOS2.png?raw=true)
+![alt text](https://github.com/donevello123/DokamiPOS/blob/main/DokamiPOS3.png?raw=true)
+![alt text](https://github.com/donevello123/DokamiPOS/blob/main/DokamiPOS4.png?raw=true)
